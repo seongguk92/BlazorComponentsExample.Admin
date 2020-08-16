@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30320.27
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorComponentsExample.Admin", "BlazorComponentsExample.Admin\BlazorComponentsExample.Admin.csproj", "{FC03CBC1-187E-484E-9B53-B0035D5AD967}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorComponentsExample.Admin", "BlazorComponentsExample.Admin\BlazorComponentsExample.Admin.csproj", "{FC03CBC1-187E-484E-9B53-B0035D5AD967}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -15,6 +15,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using BlazorComponentsExample.Admin.Areas.Identity;
 using BlazorComponentsExample.Admin.Data;
+using ChartJs.Blazor.Sample.Shared.Services;
 
 namespace BlazorComponentsExample.Admin
 {

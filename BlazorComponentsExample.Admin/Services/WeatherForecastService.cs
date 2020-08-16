@@ -1,8 +1,8 @@
-using System;
+﻿using System;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace BlazorComponentsExample.Admin.Data
+namespace ChartJs.Blazor.Sample.Shared.Services
 {
     public class WeatherForecastService
     {

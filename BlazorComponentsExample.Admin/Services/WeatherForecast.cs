@@ -1,6 +1,6 @@
-using System;
+﻿using System;
 
-namespace BlazorComponentsExample.Admin.Data
+namespace ChartJs.Blazor.Sample.Shared.Services
 {
     public class WeatherForecast
     {
